@@ -37,7 +37,14 @@ Then I revolved the plotted graph around `y ≈ 0.3788` because that is where Fu
 
 
 
-__HELP NEEDED__ for checking the volume though.
-I got this...
+__WARNING__ for checking the volume though.
+
+I got this...because my endpoints were not accurate and Fusion360 could not construct a cross sectional area.
 
 ![](images/novolume.png)
+
+
+_Possible Solutions_
+- you can create tables on desmos and record x and y values of the graphs on spreadsheet.
+- refine the codes somehow
+- tweak the endpoints so their values are equal (take average etc)
