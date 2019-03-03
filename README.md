@@ -4,7 +4,7 @@ Codes I used for calculating the points on the graphs for international CAD proj
 
 Graph of two formulas within the domain I set: https://www.desmos.com/calculator/w5dqwm0tgj
 
-Which looks like this.
+Two endpoints I chose are x ≈ -7.251 and x ≈ -5.463, and it looks like this.
 
 
 ![](images/desmos_graph.png)
