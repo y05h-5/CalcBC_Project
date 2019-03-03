@@ -52,3 +52,9 @@ ___Possible Solutions___
 After some tweaking I got this
 
 ![](images/volume.png)
+
+
+
+
+Also, I found Fusion360 creating an area outside the lines...
+![](images/extra_area.png)
