@@ -34,3 +34,10 @@ Then I copied and pasted the results on google spreadsheet, and then exported th
 Then I revolved the plotted graph around `y ≈ 0.3788` because that is where Fusion360 doesn't give the solids-overlapping error. 
 
 ![](images/solid.png)
+
+
+
+__HELP NEEDED__ for checking the volume though.
+I got this...
+
+![](images/novolume.png)
