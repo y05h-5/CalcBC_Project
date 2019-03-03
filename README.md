@@ -11,7 +11,7 @@ Two endpoints I chose are x ≈ -7.251 and x ≈ -5.463, and it looks like this.
 
 I wrote codes for 1) x-values, 2) first formula and 3) second formula. 
 
-For compiling and running codes in C try...
+For compiling and running codes in C try commands below on your terminal (or CUI app)...
 
 ```
 gcc -o [filename].exe [filename].c
