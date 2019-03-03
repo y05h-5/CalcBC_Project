@@ -2,7 +2,7 @@
 
 double x = -7.251;         //Minimum endpoint for the graphs(where they intersect). Found by grapphing on desmos.com.
 double maximum = -5.463;   //Maximum endpoint for the graphs. 
-double increment = 0.001;  //Increments for the x value to increase. dx?
+double increment = 0.001;  //Increments for the x value to increase. USE LARGER NUMBER AND IT WILL MAKE YOUR LIFE EASIER
 double diff;               //Empty double variable for checking the difference between final x value and maximum endpoint.
 
 int main(void){
