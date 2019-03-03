@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>      //look at 'x-values.c' for detailed comments
 #include <math.h>
 
 //double e = 2.718281;
