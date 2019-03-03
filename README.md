@@ -16,7 +16,7 @@ For compiling and running codes in C try...
 ```
 gcc -o [filename].exe [filename].c
 ```
-and
+and then
 ```
 ./[filename].exe
 ```
