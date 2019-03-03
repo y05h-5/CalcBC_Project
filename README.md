@@ -44,7 +44,11 @@ I got this...because my endpoints were not accurate and Fusion360 could not cons
 ![](images/novolume.png)
 
 
-_Possible Solutions_
+___Possible Solutions___
 - you can create tables on desmos and record x and y values of the graphs on spreadsheet.
 - refine the codes somehow
 - tweak the endpoints so their values are equal (take average etc)
+
+After some tweaking I got this
+
+![](images/volume.png)
