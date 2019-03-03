@@ -9,7 +9,19 @@ Two endpoints I chose are x ≈ -7.251 and x ≈ -5.463, and it looks like this.
 
 ![](images/desmos_graph.png)
 
-I wrote codes for 1) x-values, 2) first formula and 3) second formula. Then I copied and pasted the results on google spreadsheet, and then exported the XYZ values in .csv file, which I directly imported to Fusion360.
+I wrote codes for 1) x-values, 2) first formula and 3) second formula. 
+
+For compiling and running codes in C try...
+
+```
+gcc -o [filename].exe [filename].c
+```
+and
+```
+./[filename].exe
+```
+
+Then I copied and pasted the results on google spreadsheet, and then exported the XYZ values in .csv file, which I directly imported to Fusion360.
 
 (the importing process took very long because I tried to plot 1789 points x2 graphs)
 
