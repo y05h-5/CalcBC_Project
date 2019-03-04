@@ -11,7 +11,7 @@ I wrote codes for...
 ```
 1) x-values
 2) first formula
-3) second formula. 
+3) second formula
 ```
 All codes are in /codes folder.
 For compiling and running codes in C try commands below on your terminal (or CUI app)...
