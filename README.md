@@ -58,3 +58,14 @@ After some tweaking I got this
 
 Also, I found Fusion360 creating an area outside the lines...
 ![](images/extra_area.png)
+
+
+So I set endpoints equal for both spreadsheets to create region... and this is what I got
+
+![](images/region.png)
+![](images/volume.png)
+
+__3D Printed Shape__
+
+![](images/printed_top.jpg)
+![](images/printed_bottom.jpg)
